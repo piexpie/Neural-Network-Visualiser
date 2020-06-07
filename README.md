@@ -1,7 +1,8 @@
 # Neural-Network-Visualiser
+
+![Screenshot](/image.png)
+
 Neural Network Visualizer web application using Streamlit, and a simple model server using Keras and Flask. Used Keras to train a Neural Network model, and used Keras' functional API to create a model with multiple outputs. Created a web application that visualizes the outputs of all the nodes of all the layers of the neural network for a given input image.
-
-
 
 ## Instructions
 
