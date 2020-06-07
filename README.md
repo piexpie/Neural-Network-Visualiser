@@ -6,7 +6,7 @@ Neural Network Visualizer web application using Streamlit, and a simple model se
 
 ## Instructions
 
-You would need tensorflow, flask and streamlit.
+You would need tensorflow, flask and streamlit running on Python3
 
     pip3 install tensorflow flask streamlit
 
