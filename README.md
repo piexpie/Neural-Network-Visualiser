@@ -17,3 +17,9 @@ Then run the web application with ```streamlit run app.py```
 You would be presented with the local host URI, Uniform Resource Identifier.
 
 ### Open it in a browser and there you have the application running!
+
+## What do those files do?
+
+```model.h5``` This file is the trained model that is used.
+```ml_server.py``` This is the flask app.
+```app.py``` The user application.
