@@ -21,5 +21,7 @@ You would be presented with the local host URI, Uniform Resource Identifier.
 ## What do those files do?
 
 ```model.h5``` This file is the trained model that is used.
+
 ```ml_server.py``` This is the flask app.
+
 ```app.py``` The user application.
